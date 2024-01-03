@@ -1,4 +1,4 @@
-﻿AccidentID,Date,Time,Local Authority ONS District,Latitude,Longitude,Sum of Accident Vehicle Count,Sum of Accident Casualty Count,Accident Severity
+﻿AccidentID,Date,Time,Local Authority ONS District,Latitude,Longitude,Sum of Accident Vehicle Count,CasualtyCount,Accident Severity
 8703942,2022-01-01 00:00:00,22:45,Enfield,51.681709,'-0.026169,3,3,Fatal
 8733132,2022-01-01 00:00:00,04:24,Wigan,53.51031,'-2.604578,1,1,Fatal
 8733134,2022-01-01 00:00:00,13:38,Tameside,53.488013,'-2.152433,3,1,Fatal
